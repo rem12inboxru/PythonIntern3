@@ -74,4 +74,9 @@ pixels_to_ascii(image):
 Пример работы программы:
 ![Снимок экрана (17)](https://github.com/user-attachments/assets/b8ae4fd8-060f-41f4-88fd-96f742ec3df2)
 
+-invert_colors(message) - функция для инверсии изображения
+Пример инверсии:
+![Снимок экрана (18)](https://github.com/user-attachments/assets/c1d4b11f-56c6-40bd-9af6-4bd7e44c4190)
+
+
   
